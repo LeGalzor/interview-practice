@@ -1,0 +1,4 @@
+Deployment instructions:
+1. Review configuration.
+2. Verify environment variables.
+3. Deploy the application.

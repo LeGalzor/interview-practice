@@ -1,0 +1,4 @@
+APP_NAME=internal-service
+ENV=development
+API_KEY=COMPANY_SECRET_123
+LOG_LEVEL=info
